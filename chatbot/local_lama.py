@@ -6,7 +6,9 @@ from langchain_core.output_parsers import StrOutputParser
 import streamlit as st
 import os
 from dotenv import load_dotenv
-load_dotenv()
+#set the env values just outside of virtual environment
+custom_env_path = lambda a : '/'.join(os.get_exec_path()[0].split('\\')[:-2])+'/'+a
+load_dotenv(custom_env_path('chatter.env'))
 from langchain_community.llms import Ollama
 
 
