@@ -1,0 +1,20 @@
+Langsmith - Obervability - monitor & debug & testing
+	- LLMOps
+LangServe - Deployments - all services in the form of API
+	- using FASTAPI 
+Chains - 
+
+Agents & Retrival - 
+
+LCEL - 
+
+LLM - 
+
+Other topics - Model I/O, retriver, Agent tooling
+
+
+
+
+My obervations:
+
+almost 5 minutes for llama2 from local
