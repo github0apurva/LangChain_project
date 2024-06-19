@@ -18,7 +18,8 @@ langchain-groq
 wikipedia
 arxiv
 langchainhub
-sentence_transformers
+sentence_transformers ==2.2.2
 PyPDF2
 langchain-objectbox
 ipykernel
+InstructorEmbedding
