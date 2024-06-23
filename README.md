@@ -14,5 +14,8 @@ Steps
 5) api/app.py: build an api and added routes using fastapi, hosted at local host 8000
 6) api/client.py: client side webapp 
 7) execute "python app.py" & "streamlit run client.py" in seperate cmd
-8) rag/simplerag.ipynb: being used to load, transform and  Embed to a vector store (used instruct as openaiembeddings is not openscource )
+8) rag/simplerag.ipynb: being used to load, transform and  Embed to a vector store (used instruct/ollama as openaiembeddings is not openscource )
+9) chain
+10) agenta
+11) groq
 100) pushed it to git for now

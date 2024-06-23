@@ -23,3 +23,5 @@ PyPDF2
 langchain-objectbox
 ipykernel
 InstructorEmbedding
+langchain
+numba
